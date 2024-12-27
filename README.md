@@ -1,4 +1,4 @@
-# BasicCalculate
+# Basic Calculator
 
 🔢 **Basic Calculator** is a simple and intuitive web-based calculator created using HTML, CSS, and JavaScript. This project demonstrates fundamental web development skills and provides a functional calculator for basic arithmetic operations. 
 
